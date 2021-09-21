@@ -23,7 +23,7 @@ I'm currently a senior student of @[Texas A&M University, Department of Computer
 - Cloud Service (AWS EC2, AWS S3)
 - AI/ML (Reinforcement Learning, algorithms in learning....)
 
-### Thing about me
+### Things about me
 - 🔭 Working experience:
   - SWE Internship @[Inspur](https://en.inspur.com/)
   - Embedded System Engineer @[TAMU Robomaster](https://www.tamurobomasters.com/) 
