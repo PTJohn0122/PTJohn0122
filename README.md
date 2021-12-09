@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently a senior student of @[Texas A&M University, Department of Computer Science & Engineering](https://engineering.tamu.edu/cse/index.html). My primary coding languages are C++, Python and Java.
+I'm currently a senior student @[Texas A&M University, Department of Computer Science & Engineering](https://engineering.tamu.edu/cse/index.html). My primary coding languages are C++, Python and Java.
 ### My skill stack includes:
 - Web Development (html, css)
 - Database operation (Porstage SQL, mySQL)
@@ -29,7 +29,7 @@ I'm currently a senior student of @[Texas A&M University, Department of Computer
   - Embedded System Engineer @[TAMU Robomaster](https://www.tamurobomasters.com/) 
 - 🌱 Preparing for Grad School Application
 - 👯 Looking for Intern/Co-op oppurtunities for Spring 2022 and Summer 2022
-- 📫 Reach ne @:
-  - haoxj0122@tamu.edu
-  - xingjianhao0122@gmail.com
-  - haofindjobs@gmail.com
+- 📫 Reach me @:
+  - education: haoxj0122@tamu.edu
+  - perosnal: xingjianhao0122@gmail.com
+  - job oppurtunity: haofindjobs@gmail.com
