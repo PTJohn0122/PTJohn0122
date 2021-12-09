@@ -19,7 +19,7 @@ I'm currently a senior student of @[Texas A&M University, Department of Computer
 ### My skill stack includes:
 - Web Development (html, css)
 - Database operation (Porstage SQL, mySQL)
-- Distributive Storage (k8s, ceph, rook)
+- Distributed Storage (k8s, ceph, rook)
 - Cloud Service (AWS EC2, AWS S3)
 - AI/ML (Reinforcement Learning, algorithms in learning....)
 
