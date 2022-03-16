@@ -15,20 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently a senior student @[Texas A&M University, Department of Computer Science & Engineering](https://engineering.tamu.edu/cse/index.html). My primary coding languages are C++, Python and Java.
+Currently a senior student @[Texas A&M University, Department of Computer Science & Engineering](https://engineering.tamu.edu/cse/index.html). My primary coding languages are C++, Python and Java.
 ### My skill stack includes:
 - Web Development (html, css)
 - Database operation (Porstage SQL, mySQL)
 - Distributed Storage (k8s, ceph, rook)
+- Network Framework (Grpc)
 - Cloud Service (AWS EC2, AWS S3)
-- AI/ML (Reinforcement Learning, algorithms in learning....)
+- AI/ML (Reinforcement Learning, SVM, Deep Learning)
+- Parallel Tool (MPI, CUDA)
 
 ### Things about me
 - 🔭 Working experience:
   - SWE Internship @[Inspur](https://en.inspur.com/)
   - Embedded System Engineer @[TAMU Robomaster](https://www.tamurobomasters.com/) 
-- 🌱 Preparing for Grad School Application
-- 👯 Looking for Intern/Co-op oppurtunities for Spring 2022 and Summer 2022
+- 🌱 Upcoming grad study 
+- 👯 Looking for Internship oppurtunities for Summer 2022
 - 📫 Reach me @:
   - education: haoxj0122@tamu.edu
   - perosnal: xingjianhao0122@gmail.com
