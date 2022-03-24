@@ -36,6 +36,6 @@ Currently a senior student @[Texas A&M University, Department of Computer Scienc
   - perosnal: xingjianhao0122@gmail.com
   - job oppurtunity: haofindjobs@gmail.com
 
-### :eyes: Visitors Count
+### Visitors Count
 
-![visitors-count](https://visitor-badge.laobi.icu/badge?page_id=PTJohn0122.readme)
+![visitors-count](https://visitor-badge.laobi.icu/badge?page_id=PTJohn0122.readme&left_text=Homepage%20Visitors)
