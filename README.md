@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently a senior student @[Texas A&M University, Department of Computer Science & Engineering](https://engineering.tamu.edu/cse/index.html). My primary coding languages are C++, Python and Java.
+[Texas A&M University, Department of Computer Science & Engineering](https://engineering.tamu.edu/cse/index.html) alumni, class of 2022. Upcoming graduate study @[Brown University](https://engineering.brown.edu/). My primary coding languages are C++, Python and Java.
 ### My skill stack includes:
 - Web Development (html, css)
 - Database operation (Porstage SQL, mySQL)
-- Distributed Storage (k8s, ceph, rook)
+- Distributed System (k8s, ceph, rook, MapReduce, Hadook)
 - Network Framework (Grpc)
 - Cloud Service (AWS EC2, AWS S3)
 - AI/ML (Reinforcement Learning, SVM, Deep Learning)
@@ -29,10 +29,10 @@ Currently a senior student @[Texas A&M University, Department of Computer Scienc
 - 🔭 Working experience:
   - SWE Internship @[Inspur](https://en.inspur.com/)
   - Embedded System Engineer @[TAMU Robomaster](https://www.tamurobomasters.com/) 
-- 🌱 Upcoming grad study 
-- 👯 Looking for Internship oppurtunities for Summer 2022
+- 🌱 ScM in Electric and Computer Engineering
+- 👯 Preparing for Internship oppurtunities for Summer 2023
 - 📫 Reach me @:
-  - education: haoxj0122@tamu.edu
+  - education: xingjian_hao@brown.edu
   - perosnal: xingjianhao0122@gmail.com
   - job oppurtunity: haofindjobs@gmail.com
 
