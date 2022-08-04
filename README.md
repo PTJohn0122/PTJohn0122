@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Texas A&M University, Department of Computer Science & Engineering](https://engineering.tamu.edu/cse/index.html) alumni, class of 2022. Upcoming graduate study @[Brown University](https://engineering.brown.edu/). My primary coding languages are C++, Python and Java.
+[Texas A&M University, Department of Computer Science & Engineering](https://engineering.tamu.edu/cse/index.html) alumni, class of 2022.
+
+[Brown University](https://engineering.brown.edu/) ScM ECE, class of 2024.
+
+My primary coding languages are C++, Python and Java.
 ### My skill stack includes:
-- Web Development (html, css)
+- Web Development (css, JavaScript, React, Node JS)
 - Database operation (Porstage SQL, mySQL)
 - Distributed System (k8s, ceph, rook, MapReduce, Hadook)
 - Network Framework (Grpc)
