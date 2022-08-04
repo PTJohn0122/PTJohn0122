@@ -33,7 +33,6 @@ My primary coding languages are C++, Python and Java.
 - 🔭 Working experience:
   - SWE Internship @[Inspur](https://en.inspur.com/)
   - Embedded System Engineer @[TAMU Robomaster](https://www.tamurobomasters.com/) 
-- 🌱 ScM in Electric and Computer Engineering
 - 👯 Preparing for Internship oppurtunities for Summer 2023
 - 📫 Reach me @:
   - education: xingjian_hao@brown.edu
