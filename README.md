@@ -30,10 +30,10 @@ My primary coding languages are C++, Python and Java.
 - Parallel Tool (MPI, CUDA)
 
 ### Things about me
-- 🔭 Working experience:
+- 🔭 Work experience:
   - SWE Internship @[Inspur](https://en.inspur.com/)
   - Embedded System Engineer @[TAMU Robomaster](https://www.tamurobomasters.com/) 
-- 👯 Preparing for Internship oppurtunities for Summer 2023
+- 👯 Looking for Internship oppurtunities for Summer 2023
 - 📫 Reach me @:
   - education: xingjian_hao@brown.edu
   - perosnal: xingjianhao0122@gmail.com
