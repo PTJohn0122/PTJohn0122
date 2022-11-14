@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Texas A&M University](https://engineering.tamu.edu/cse/index.html) CECN alumni, class of 2022.
-
 [Brown University](https://engineering.brown.edu/) ScM ECE, class of 2024.
+
+[Texas A&M University](https://engineering.tamu.edu/cse/index.html) CECN alumni, class of 2022.
 
 My primary coding languages are C++, Python and Java.
 ### My skill stack includes:
