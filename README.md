@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=forthespada&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true"  alt="水滴石穿" align="right" style="margin-bottom: 20px;"/>
+
 [Brown University](https://engineering.brown.edu/) ScM ECE, class of 2024.
 
 [Texas A&M University](https://engineering.tamu.edu/cse/index.html) CECN alumni, class of 2022.
