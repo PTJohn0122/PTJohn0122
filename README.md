@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=forthespada&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true"  alt="水滴石穿" align="right" style="margin-bottom: 20px;"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PTJohn0122&count_private=true)
 
 [Brown University](https://engineering.brown.edu/) ScM ECE, class of 2024.
 
@@ -24,22 +24,17 @@ Here are some ideas to get you started:
 My primary coding languages are C++, Python and Java.
 ### My skill stack includes:
 - Web Development (css, JavaScript, React, Node JS)
-- Database operation (Porstage SQL, mySQL)
 - Distributed System (k8s, ceph, rook, MapReduce, Hadook)
-- Network Framework (Grpc)
 - Cloud Service (AWS EC2, AWS S3)
-- AI/ML (Reinforcement Learning, SVM, Deep Learning)
-- Parallel Tool (MPI, CUDA)
+- ML/DL (Tensorflow, Pytorch, SciKit)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PTJohn0122&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Things about me
 - 🔭 Work experience:
   - SWE Internship @[Inspur](https://en.inspur.com/)
   - Embedded System Engineer @[TAMU Robomaster](https://www.tamurobomasters.com/) 
 - 👯 Looking for Internship oppurtunities for Summer 2023
-- 📫 Reach me @:
-  - education: xingjian_hao@brown.edu
-  - perosnal: xingjianhao0122@gmail.com
-  - job oppurtunity: haofindjobs@gmail.com
 
 ### Visitors Count
 
