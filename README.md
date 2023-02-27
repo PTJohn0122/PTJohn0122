@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 [Texas A&M University](https://engineering.tamu.edu/cse/index.html) CECN alumni, class of 2022.
 
-My primary coding languages are C++, Python and Java.
-### My skill stack includes:
+My primary programming languages are C++, Python, Go and Java.
+### My skill stack includes:s
 - Web Development (css, JavaScript, React, Node JS)
 - Distributed System (k8s, ceph, rook, MapReduce, Hadook)
 - Cloud Service (AWS EC2, AWS S3)
