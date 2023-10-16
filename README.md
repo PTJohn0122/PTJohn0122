@@ -23,18 +23,20 @@ Here are some ideas to get you started:
 
 My primary programming languages are C++, Python, Go and Java.
 ### My skill stack includes:s
-- Web Development (css, JavaScript, React, Node JS)
-- Distributed System (k8s, ceph, rook, MapReduce, Hadook)
+- Web Development (JavaScript, Typescript, React, Vue.JS, Node.JS)
+- Distributed System (Kubernetes, Docker, Paas)
 - Cloud Service (AWS EC2, AWS S3)
-- ML/DL (Tensorflow, Pytorch, SciKit)
+- ML/DL (Tensorflow, Pytorch, scikit)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PTJohn0122&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Things about me
 - 🔭 Work experience:
+  - SWE Internship @[DJI Automotive](https://auto.dji.com/)
+  - SWE Internship @[Gridsum](https://www.gridsum.com/)
   - SWE Internship @[Inspur](https://en.inspur.com/)
   - Embedded System Engineer @[TAMU Robomaster](https://www.tamurobomasters.com/) 
-- 👯 Looking for Internship oppurtunities for Summer 2023
+- 👯 Looking for Internship oppurtunities for Summer 2024
 
 ### Visitors Count
 
